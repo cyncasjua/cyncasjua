@@ -15,7 +15,7 @@
 ## Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,nodejs,java,sql,docker" />
 </p>
 
 ---
@@ -48,31 +48,6 @@
 
 ---
 
-## Featured Projects
-
-### Project 1
-
-Short description of the project.
-
-https://github.com/cyncasjua/project1
-
----
-
-### Project 2
-
-Short description of the project.
-
-https://github.com/cyncasjua/project2
-
----
-
-### Project 3
-
-Short description of the project.
-
-https://github.com/cyncasjua/project3
-
----
 
 ## GitHub Trophies
 
