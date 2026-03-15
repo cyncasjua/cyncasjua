@@ -7,7 +7,7 @@
 <h1 align="center">cyncasjua</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Developer;Building+projects;Learning+new+technologies;Exploring+new+fields+in+tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3200&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+projects;Learning+new+technologies;Application+Development;Artificial+Intelligence;Web+Development;Cloud+Cybersecurity;Big+Data" />
 </p>
 
 ---
@@ -24,25 +24,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity%20in%20Cloud-6C63FF?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Cybersecurity-8A2BE2?style=for-the-badge&logo=icloud&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Big%20Data-8A2BE2?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Big%20Data-6C63FF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge&logo=webflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Application%20Development-8A2BE2?style=for-the-badge&logo=android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</p>
-
----
-
-## Focus Areas
-
-<p align="center">
-
-Cloud Security • Big Data Systems • AI Applications • Web Platforms • Software Engineering
 
 </p>
 
@@ -80,6 +70,14 @@ Cloud Security • Big Data Systems • AI Applications • Web Platforms • So
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=cyncasjua&theme=tokyonight&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/cyncasjua/cyncasjua/output/snake.svg" />
 </p>
 
 ---
