@@ -38,6 +38,16 @@
 
 ---
 
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cynthia-casta%C3%B1o-juan-4b7195387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
 ## GitHub Statistics
 
 <p align="center">
@@ -81,6 +91,7 @@
 </p>
 
 ---
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cyncasjua&label=Profile%20views&color=8A2BE2&style=flat"/>
